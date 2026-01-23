@@ -1,6 +1,6 @@
 <img width="495" height="353" alt="image" src="https://github.com/user-attachments/assets/822feb4b-93d8-4ef2-acfd-40f8d17cea93" />
 
-# 🌐 Networking Basics ---
+# 🌐 Networking Basics --
 
 This README explains **Networking**, its **architecture**, **IP addresses**, **ports**, **protocols**, and **DNS** in a **simple, production-oriented way**.
 
